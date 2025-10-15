@@ -6,7 +6,6 @@
 #         print(b)
 #     elif a == b:
 #         print(a)
-
 # inputNums(5, 6)
 
 # practice - 2
@@ -77,7 +76,7 @@
 #         message = ""
 #     return message
 
-print(armStrongNumber(153))
+# print(armStrongNumber(153))
 
 
 
