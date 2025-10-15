@@ -78,8 +78,30 @@
 
 # print(armStrongNumber(153))
 
+# problem - 7
+# def setGCD(a):
+#     a_list = []
+#     a_set = set()
+#     for i in range(1, a):
+#         if a%i == 0:
+#             a_list.append(a/i)
+#     a_list.append(1)
+#     a_list.reverse()
+#     a_set.update(a_list)
+#     return a_set
+
+# def gcd(num_1, num_2):
+#     temp_num_1 = setGCD(num_1)
+#     temp_num_2 = setGCD(num_2)
+#     common = temp_num_1.intersection(temp_num_2)
+#     gcdNum = max(common)
+#     return gcdNum
+
+# print(gcd(8, 12))
 
 
+# s_1 = funcL(8)
+# s_2 = funcL(12)
 
-
-
+# print(s_1)
+# print(s_2)
